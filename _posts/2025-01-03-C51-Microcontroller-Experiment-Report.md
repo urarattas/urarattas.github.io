@@ -1,5 +1,5 @@
 ---
-title: C51-Microcontroller-Experiment-Report
+title: C51实验报告
 date: 2024-01-03 14:39 +0800
 categories: [Blogging]
 tags: [C51]
